@@ -1,2 +1,3 @@
 # Ajax-Chatbox
-php chatbox using jquery ajax method
+It is a simple chatbox, created with php and mysql database, using create and read CRUD operations.
+By using jquery ajax method application instantly displays data in the messege box and afterwards sends the query to database table withouy gaving to reload the page.
